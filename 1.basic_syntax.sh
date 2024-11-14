@@ -96,3 +96,4 @@ cp first_file.txt second_file.txt
 # mv 이동대상파일 이동될파일명
 mv first_file.txt ../fisrt_file.txt
 mv first_file.txt third_file.txt
+
